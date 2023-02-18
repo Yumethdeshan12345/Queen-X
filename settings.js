@@ -15,25 +15,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
-global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['94764186258'] //ur owner number
+global.ownername = "𝙲𝚒𝚙𝚑𝚎𝚛 𝚖𝚞𝚜𝚒𝚌 𝚋𝚘𝚝" //ur owner name
+global.ytname = "𝙲𝚒𝚙𝚑𝚎𝚛 𝚖𝚞𝚜𝚒𝚌" //ur yt chanel name
+global.socialm = "CIPHERCITY" //ur github or insta name
+global.location = "Srilanka" //ur location
 
 //bot bomdy 
 
 global.session = "YXF5RWYwZ0I=" //session Id 
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = '94719225807' //ur bot name
-global.linkz = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
+global.ownernomer = "94764186258" //ur number
+global.premium = ['94764186258'] //ur premium number
+global.botname = '94764186258' //ur bot name
+global.linkz = "https://www.youtube.com/channel/UCKLnfOSYph-21HAX1b_gkNw" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UCKLnfOSYph-21HAX1b_gkNw" //ur website to be displayed
+global.botscript = 'https://www.youtube.com/channel/UCKLnfOSYph-21HAX1b_gkNw' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.packname = "𝙲𝚒𝚙𝚑𝚎𝚛 𝚖𝚞𝚜𝚒𝚌 𝚋𝚘𝚝" //ur sticker watermark packname
+global.author = "𝙲𝚒𝚙𝚑𝚎𝚛 𝚖𝚞𝚜𝚒𝚌 𝚋𝚘𝚝\n\n\nA whatsapp bot developed by\n   👸🏻𝙲𝚒𝚙𝚑𝚎𝚛 𝚖𝚞𝚜𝚒𝚌 𝚋𝚘𝚝👸🏻" //ur sticker watermark author
+global.wm = "𝙲𝚒𝚙𝚑𝚎𝚛 𝚖𝚞𝚜𝚒𝚌 𝚋𝚘𝚝." //ur watermark
 
 // Other
 global.sessionName = 'session'
